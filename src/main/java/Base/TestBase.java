@@ -15,6 +15,7 @@ public class TestBase {
 		//driver.get("https://www.saucedemo.com/");
 		driver.get(readData.readProperty("URL"));
         driver.manage().window().maximize();
+        //shivani123
 		
 	}
 
