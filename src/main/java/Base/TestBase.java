@@ -16,6 +16,7 @@ public class TestBase {
 		driver.get(readData.readProperty("URL"));
         driver.manage().window().maximize();
         //shivani123
+		//hopeless sumit
 		
 	}
 
